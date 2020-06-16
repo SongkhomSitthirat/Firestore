@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621435952698",
+    "firebase_url": "https://fir-authenanonymous.firebaseio.com",
+    "project_id": "fir-authenanonymous",
+    "storage_bucket": "fir-authenanonymous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621435952698:android:4310a778a497fe0ade5f03",
+        "android_client_info": {
+          "package_name": "com.test.firebaseauthenanonymous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621435952698-gkq94mfl2vij9kqafdd4iu8aao2ac141.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.firebaseauthenanonymous",
+            "certificate_hash": "adebfb8cd366e264377ba8d961e8844f610026b0"
+          }
+        },
+        {
+          "client_id": "621435952698-s7pdh5aig04qrg47tqp8oafj5cl2n6r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwM3nGh8WQNeaWZe8PtH0bUX8XldhR0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621435952698-s7pdh5aig04qrg47tqp8oafj5cl2n6r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
